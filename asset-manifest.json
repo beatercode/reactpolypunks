@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/reactpolypunks/static/css/main.73dc44ec.chunk.css",
+    "main.js": "/reactpolypunks/static/js/main.cf44cfd1.chunk.js",
+    "main.js.map": "/reactpolypunks/static/js/main.cf44cfd1.chunk.js.map",
+    "runtime-main.js": "/reactpolypunks/static/js/runtime-main.7cce4f63.js",
+    "runtime-main.js.map": "/reactpolypunks/static/js/runtime-main.7cce4f63.js.map",
+    "static/css/2.c9de6254.chunk.css": "/reactpolypunks/static/css/2.c9de6254.chunk.css",
+    "static/js/2.6bc9f1d3.chunk.js": "/reactpolypunks/static/js/2.6bc9f1d3.chunk.js",
+    "static/js/2.6bc9f1d3.chunk.js.map": "/reactpolypunks/static/js/2.6bc9f1d3.chunk.js.map",
+    "static/js/3.c12c1357.chunk.js": "/reactpolypunks/static/js/3.c12c1357.chunk.js",
+    "static/js/3.c12c1357.chunk.js.map": "/reactpolypunks/static/js/3.c12c1357.chunk.js.map",
+    "index.html": "/reactpolypunks/index.html",
+    "static/css/2.c9de6254.chunk.css.map": "/reactpolypunks/static/css/2.c9de6254.chunk.css.map",
+    "static/css/main.73dc44ec.chunk.css.map": "/reactpolypunks/static/css/main.73dc44ec.chunk.css.map",
+    "static/js/2.6bc9f1d3.chunk.js.LICENSE.txt": "/reactpolypunks/static/js/2.6bc9f1d3.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/reactpolypunks/static/media/Author-Medium.f963fc32.woff",
+    "static/media/Logo-Full.png": "/reactpolypunks/static/media/Logo-Full.bab8f2f9.png",
+    "static/media/Logo-Shape-modified.png": "/reactpolypunks/static/media/Logo-Shape-modified.56a29ea9.png",
+    "static/media/Logo-Shape.png": "/reactpolypunks/static/media/Logo-Shape.acbd18a0.png",
+    "static/media/hero_image.png": "/reactpolypunks/static/media/hero_image.aab5d49a.png",
+    "static/media/metamask-logo.png": "/reactpolypunks/static/media/metamask-logo.3cfbe9f0.png",
+    "static/media/remixicon.css": "/reactpolypunks/static/media/remixicon.f2616f59.ttf",
+    "static/media/social-discord.png": "/reactpolypunks/static/media/social-discord.e21557a9.png",
+    "static/media/social-medium.png": "/reactpolypunks/static/media/social-medium.2cfa3e74.png",
+    "static/media/social-telegram.png": "/reactpolypunks/static/media/social-telegram.4801b46a.png",
+    "static/media/social-twitter.png": "/reactpolypunks/static/media/social-twitter.8dc6797c.png",
+    "static/media/white-paper.pdf": "/reactpolypunks/static/media/white-paper.4e16ad56.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cce4f63.js",
+    "static/css/2.c9de6254.chunk.css",
+    "static/js/2.6bc9f1d3.chunk.js",
+    "static/css/main.73dc44ec.chunk.css",
+    "static/js/main.cf44cfd1.chunk.js"
+  ]
+}
